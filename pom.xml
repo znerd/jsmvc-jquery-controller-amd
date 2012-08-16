@@ -4,7 +4,7 @@
   <groupId>org.znerd</groupId>
   <artifactId>jsmvc-jquery-controller-amd</artifactId>
   <packaging>pom</packaging>
-  <version>3.2.0.000</version>
+  <version>3.2.0.001-SNAPSHOT</version>
 
   <name>JavaScriptMVC jquery/controller AMD Library</name>
   <description>JavaScriptMVC jquery/controller library with AMD wrapper</description>
@@ -30,7 +30,7 @@
     <connection>scm:git:git@github.com:znerd/jsmvc-jquery-controller-amd.git</connection>
     <developerConnection>scm:git:git@github.com:znerd/jsmvc-jquery-controller-amd.git</developerConnection>
     <url>git@github.com:znerd/jsmvc-jquery-controller-amd.git</url>
-    <tag>jsmvc-jquery-controller-amd-3.2.0.000</tag>
+    <tag>HEAD</tag>
   </scm>
 
   <issueManagement>
